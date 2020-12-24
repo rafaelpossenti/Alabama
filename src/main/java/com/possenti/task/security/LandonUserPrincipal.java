@@ -2,7 +2,6 @@ package com.possenti.task.security;
 
 import com.possenti.task.entity.AuthGroup;
 import com.possenti.task.entity.User;
-import jdk.internal.util.Preconditions;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
